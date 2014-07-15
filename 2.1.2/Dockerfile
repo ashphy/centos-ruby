@@ -1,4 +1,4 @@
-FROM ashphy/centos-ruby:base
+FROM ashphy/centos6-ruby:base
 MAINTAINER Kazuki Hamasaki <ashphy@ashphy.com>
 
 ENV CONFIGURE_OPTS --disable-install-doc
