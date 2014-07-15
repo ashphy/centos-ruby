@@ -1,4 +1,4 @@
-FROM centos
+FROM centos:centos6
 MAINTAINER Kazuki Hamasaki <ashphy@ashphy.com>
 
 WORKDIR /root
